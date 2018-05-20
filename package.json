@@ -1,0 +1,29 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "A bot for discord that does various things",
+  "main": "DiscordBot.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Megalawls/DiscordBot.git"
+  },
+  "author": "Daniel Russell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Megalawls/DiscordBot/issues"
+  },
+  "homepage": "https://github.com/Megalawls/DiscordBot#readme",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "discord.js-commando": "^0.9.0",
+    "download": "^6.2.5",
+    "wolfram": "^0.3.4"
+  },
+  "devDependencies": {
+    "chai": "^4.1.0",
+    "mocha": "^3.4.2"
+  }
+}
